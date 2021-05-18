@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+}
+
+h1 {
+  color: DarkSlateGray;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+
+h2 {
+  color: DarkSlateGray;
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+
+p {
+  color: DarkSlateGray;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
