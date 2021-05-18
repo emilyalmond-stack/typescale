@@ -2,41 +2,45 @@
 /* CSS Document */
 
 html, body {
+  color: DarkSlateGray;
   font-family: 'Source Sans Pro';
+  font-size: 16px;
   margin: 10px;
 }
 
-#module-one h1 {
-  color: DarkSlateGray;
-  font-family: 'Sansita Swashed', cursive;
-  font-size: 3rem;
-  font-style: italic;
+#module-one {
+  font-size: 2em;
+}
+
+h1 {
+  font-family:'Sansita Swashed', cursive;
+  font-size: 1.875em;
   font-weight: bold;
 }
 
-#module-one h2 {
-  color: DarkSlateGray;
-  font-family: 'Source Sans Pro';
-  font-size: 3rem;
+h2 {
+  font-size: 1.125em;
   font-weight:bold;
 }
 
-#module-two h3 {
-  color: DarkSlateGray;
-  font-family: 'Source Sans Pro';
-  font-size: 2rem;
+p {
+  font-size: 1em;
+}
+
+#module-two {
+  font-size: 1em;
+}
+
+h3 {
+  font-size: 2em;
   font-weight: bold;
 }
 
-#module-three h4 {
-  color: DarkSlateGray;
-  font-family: 'Source Sans Pro';
-  font-size: 1.5rem;
-  font-weight: bold;
+#module-three {
+  font-size: 0.5em;
 }
 
-#module-one p {
-  color: DarkSlateGray;
-  font-family: 'Source Sans Pro';
-  font-size: 1rem;
+h4 {
+  font-size: 2.6rem;
+  font-weight: bold;
 }
