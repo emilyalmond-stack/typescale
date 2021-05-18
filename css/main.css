@@ -3,11 +3,10 @@
 
 html, body {
   font-family: 'Source Sans Pro';
-  font-size: 16px;
   margin: 10px;
 }
 
-h1 {
+#module-one h1 {
   color: DarkSlateGray;
   font-family: 'Sansita Swashed', cursive;
   font-size: 3rem;
@@ -15,28 +14,28 @@ h1 {
   font-weight: bold;
 }
 
-h2 {
+#module-one h2 {
   color: DarkSlateGray;
   font-family: 'Source Sans Pro';
   font-size: 3rem;
   font-weight:bold;
 }
 
-h3 {
+#module-two h3 {
   color: DarkSlateGray;
   font-family: 'Source Sans Pro';
   font-size: 2rem;
   font-weight: bold;
 }
 
-h4 {
+#module-three h4 {
   color: DarkSlateGray;
   font-family: 'Source Sans Pro';
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-p {
+#module-one p {
   color: DarkSlateGray;
   font-family: 'Source Sans Pro';
   font-size: 1rem;
